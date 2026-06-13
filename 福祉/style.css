@@ -6,11 +6,11 @@
 }
 
 body{
-    background:#f4f7f6;
+    background:#30578d;
 }
 
 header{
-    background:#2e7d32;
+    background:#30578d;
     color:white;
     text-align:center;
     padding:40px;
@@ -57,7 +57,7 @@ header h1{
 }
 
 footer{
-    background:#2e7d32;
+    background:#30578d;
     color:white;
     text-align:center;
     padding:15px;
@@ -94,7 +94,7 @@ footer{
 
 .form-box button{
     width:100%;
-    background:#2e7d32;
+    background:#30578d;
     color:white;
     border:none;
     padding:12px;
@@ -102,6 +102,6 @@ footer{
 }
 
 .form-box button:hover{
-    background:#1b5e20;
+    background:#30578d;
 }
 }
